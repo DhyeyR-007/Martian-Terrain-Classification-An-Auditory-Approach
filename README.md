@@ -1,6 +1,5 @@
 # Martian-Terrain-Classification-An-Auditory-Approach
 
-
 ## Project Structure
 There are basically two files which contain all the datasets (and where according to the code) you will store all the intermediate audio clips that\ 
 you create while audio processing for classification:
