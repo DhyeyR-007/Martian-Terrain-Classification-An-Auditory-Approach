@@ -6,6 +6,11 @@ you create while audio processing for classification:
 - ZUHRN_AUDIO : contains all the trajectory and audio data that we get from Zuhrn's [1] dataset which we obtain from http://deepterrain.cs.uni-freiburg.de/. We use this dataset as our baseline and an additional dataset to test our Blind Source Separation (BSS) and Siamese Neural Network architecture.
 - Audio files : contains all the data and experiments done for Martian audio data from the perseverance rover.
 
+<p>
+    <img height="529" alt="image" src="https://github.com/DhyeyR-007/Martian-Terrain-Classification-An-Auditory-Approach/assets/86003669/53cb22f0-f26a-4352-9f86-7751eb45c6ea">
+    <em>A very general architecture (complete detailing in the Final_Report)</em>
+</p>
+
 
 
 ----
