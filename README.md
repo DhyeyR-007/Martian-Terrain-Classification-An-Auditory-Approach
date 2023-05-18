@@ -8,7 +8,7 @@ you create while audio processing for classification:
 
 <p>
     <img height="529" alt="image" src="https://github.com/DhyeyR-007/Martian-Terrain-Classification-An-Auditory-Approach/assets/86003669/53cb22f0-f26a-4352-9f86-7751eb45c6ea">
-    <em>A very general architecture (complete detailing in the Final_Report)</em>
+    <em>A very general architecture (complete detailing in the Final_Report.pdf)</em>
 </p>
 
 
